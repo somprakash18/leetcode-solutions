@@ -21,4 +21,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/somprakash18/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/somprakash18/leetcode-solutions/tree/master/0460-lfu-cache) |
+## Array
+|  |
+| ------- |
+| [0018-4sum](https://github.com/somprakash18/leetcode-solutions/tree/master/0018-4sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/somprakash18/leetcode-solutions/tree/master/0018-4sum) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/somprakash18/leetcode-solutions/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
