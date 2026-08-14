@@ -43,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/somprakash18/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/somprakash18/leetcode-solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
