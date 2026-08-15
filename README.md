@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/somprakash18/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/somprakash18/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/somprakash18/leetcode-solutions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/somprakash18/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/somprakash18/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/somprakash18/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/somprakash18/leetcode-solutions/tree/master/0204-count-primes) |
@@ -89,5 +90,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/somprakash18/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/somprakash18/leetcode-solutions/tree/master/0118-pascals-triangle) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/somprakash18/leetcode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
