@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/somprakash18/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/somprakash18/leetcode-solutions/tree/master/0018-4sum) |
 | [0118-pascals-triangle](https://github.com/somprakash18/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0204-count-primes](https://github.com/somprakash18/leetcode-solutions/tree/master/0204-count-primes) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/somprakash18/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/somprakash18/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/somprakash18/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/somprakash18/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/somprakash18/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/somprakash18/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/somprakash18/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/somprakash18/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
