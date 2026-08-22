@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/somprakash18/leetcode-solutions/tree/master/0204-count-primes) |
 | [0912-sort-an-array](https://github.com/somprakash18/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/somprakash18/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/somprakash18/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,12 +49,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/somprakash18/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/somprakash18/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/somprakash18/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/somprakash18/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
 | [0018-4sum](https://github.com/somprakash18/leetcode-solutions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/somprakash18/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0912-sort-an-array](https://github.com/somprakash18/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/somprakash18/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/somprakash18/leetcode-solutions/tree/master/0069-sqrtx) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/somprakash18/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Newton's Method
 |  |
 | ------- |
