@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/somprakash18/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/somprakash18/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0146-lru-cache](https://github.com/somprakash18/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0202-happy-number](https://github.com/somprakash18/leetcode-solutions/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/somprakash18/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/somprakash18/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/somprakash18/leetcode-solutions/tree/master/0460-lfu-cache) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/somprakash18/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/somprakash18/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/somprakash18/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/somprakash18/leetcode-solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/somprakash18/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/somprakash18/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/somprakash18/leetcode-solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/somprakash18/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/somprakash18/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/somprakash18/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/somprakash18/leetcode-solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/somprakash18/leetcode-solutions/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/somprakash18/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Binary Search
@@ -211,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/somprakash18/leetcode-solutions/tree/master/0078-subsets) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/somprakash18/leetcode-solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
