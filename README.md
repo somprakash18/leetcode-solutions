@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/somprakash18/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0992-subarrays-with-k-different-integers](https://github.com/somprakash18/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/somprakash18/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/somprakash18/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Counting
 |  |
 | ------- |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/somprakash18/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [1927-sum-game](https://github.com/somprakash18/leetcode-solutions/tree/master/1927-sum-game) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/somprakash18/leetcode-solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/somprakash18/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Queue
 |  |
 | ------- |
