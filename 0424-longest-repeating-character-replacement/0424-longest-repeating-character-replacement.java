@@ -1,16 +1,26 @@
 class Solution {
     public int characterReplacement(String s, int k) {
-        int[]count=new int[26];
-        int left=0,maxFreq=0,maxLen=0;
-        for(int right=0;right<s.length();right++){
-            count[s.charAt(right)-'A']++;
-            maxFreq=Math.max(maxFreq,count[s.charAt(right)-'A']);
-            while((right-left +1)-maxFreq>k){
-                count[s.charAt(left)-'A']--;
-                left++;
+         int max=0;
+         int i=0,j=0;
+         int maxC=0;
+         int[]counts=new int[26];
+         while(j<s.length()){
+            char c=s.charAt(j);
+            counts[c-'A']=counts[c-'A']+1;
+            maxC=Math.max(maxC,counts[c-'A']);
+            
+            while((j-i+1)-maxC>k){
+                char d=s.charAt(i);
+                counts[d-'A']=counts[d-'A']-1;
+                i=i+1;
+                for(int l=0;l<26;l=l+1){
+                    maxC=Math.max(maxC,counts[l]);
+                }
             }
-            maxLen=Math.max(maxLen,right-left+1);
-        }
-        return maxLen;
+            max=Math.max(max,j-i+1);
+            j=j+1;
+         }
+         return max;
+
     }
 }
