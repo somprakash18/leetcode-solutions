@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/somprakash18/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0460-lfu-cache](https://github.com/somprakash18/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/somprakash18/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/somprakash18/leetcode-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/somprakash18/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
