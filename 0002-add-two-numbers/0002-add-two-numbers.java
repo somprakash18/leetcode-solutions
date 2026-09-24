@@ -15,8 +15,22 @@ class Solution {
         
         int carry=0;
         while(l1!=null||l2!=null ||carry!=0){
-            int x=(l1!=null)?l1.val:0;
-            int y=(l2!=null)?l2.val:0;
+            int x;
+
+if (l1 != null) {
+    x = l1.val;
+} else {
+    x = 0;
+}
+int y;
+
+if (l2 != null) {
+    y = l2.val;
+} else {
+    y = 0;
+}
+
+
             int sum=x+y+carry;
             int digit=sum%10;
             carry=sum/10;
