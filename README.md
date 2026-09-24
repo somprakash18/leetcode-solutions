@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/somprakash18/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/somprakash18/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3169-count-days-without-meetings](https://github.com/somprakash18/leetcode-solutions/tree/master/3169-count-days-without-meetings) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/somprakash18/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/somprakash18/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/somprakash18/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/somprakash18/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/somprakash18/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1872-stone-game-viii](https://github.com/somprakash18/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/somprakash18/leetcode-solutions/tree/master/1927-sum-game) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/somprakash18/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/somprakash18/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/somprakash18/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Search
