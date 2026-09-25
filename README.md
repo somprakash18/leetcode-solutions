@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/somprakash18/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/somprakash18/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/somprakash18/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/somprakash18/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0460-lfu-cache](https://github.com/somprakash18/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/somprakash18/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/somprakash18/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/somprakash18/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/somprakash18/leetcode-solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/somprakash18/leetcode-solutions/tree/master/0204-count-primes) |
+| [0445-add-two-numbers-ii](https://github.com/somprakash18/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/somprakash18/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/somprakash18/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1872-stone-game-viii](https://github.com/somprakash18/leetcode-solutions/tree/master/1872-stone-game-viii) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/somprakash18/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/somprakash18/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/somprakash18/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/somprakash18/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Minimax
 |  |
