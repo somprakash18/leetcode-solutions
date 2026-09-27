@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/somprakash18/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/somprakash18/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/somprakash18/leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0383-ransom-note](https://github.com/somprakash18/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/somprakash18/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/somprakash18/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0457-circular-array-loop](https://github.com/somprakash18/leetcode-solutions/tree/master/0457-circular-array-loop) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/somprakash18/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/somprakash18/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/somprakash18/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/somprakash18/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/somprakash18/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/somprakash18/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/somprakash18/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/somprakash18/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/somprakash18/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/somprakash18/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/somprakash18/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
