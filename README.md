@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/somprakash18/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/somprakash18/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/somprakash18/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/somprakash18/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1927-sum-game](https://github.com/somprakash18/leetcode-solutions/tree/master/1927-sum-game) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/somprakash18/leetcode-solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/somprakash18/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/somprakash18/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/somprakash18/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0844-backspace-string-compare](https://github.com/somprakash18/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/somprakash18/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/somprakash18/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Minimax
 |  |
