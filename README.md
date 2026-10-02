@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/somprakash18/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0731-my-calendar-ii](https://github.com/somprakash18/leetcode-solutions/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/somprakash18/leetcode-solutions/tree/master/0732-my-calendar-iii) |
+| [0933-number-of-recent-calls](https://github.com/somprakash18/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/somprakash18/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/somprakash18/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/somprakash18/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 ## Trie
 |  |
 | ------- |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/somprakash18/leetcode-solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0933-number-of-recent-calls](https://github.com/somprakash18/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 ## Tree
 |  |
 | ------- |
