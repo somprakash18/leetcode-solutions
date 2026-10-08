@@ -443,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/somprakash18/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/somprakash18/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/somprakash18/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/somprakash18/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/somprakash18/leetcode-solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/somprakash18/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/somprakash18/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/somprakash18/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/somprakash18/leetcode-solutions/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/somprakash18/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/somprakash18/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/somprakash18/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/somprakash18/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/somprakash18/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/somprakash18/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/somprakash18/leetcode-solutions/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/somprakash18/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/somprakash18/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/somprakash18/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/somprakash18/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -573,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/somprakash18/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/somprakash18/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/somprakash18/leetcode-solutions/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/somprakash18/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/somprakash18/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/somprakash18/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/somprakash18/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
