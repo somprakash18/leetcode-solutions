@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/somprakash18/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/somprakash18/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/somprakash18/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1046-last-stone-weight](https://github.com/somprakash18/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/somprakash18/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/somprakash18/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/somprakash18/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/somprakash18/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/somprakash18/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/somprakash18/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/somprakash18/leetcode-solutions/tree/master/1094-car-pooling) |
 ## Merge Sort
 |  |
