@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/somprakash18/leetcode-solutions/tree/master/0986-interval-list-intersections) |
 | [0992-subarrays-with-k-different-integers](https://github.com/somprakash18/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/somprakash18/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/somprakash18/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/somprakash18/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/somprakash18/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/somprakash18/leetcode-solutions/tree/master/1094-car-pooling) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/somprakash18/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/somprakash18/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/somprakash18/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1004-max-consecutive-ones-iii](https://github.com/somprakash18/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/somprakash18/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/somprakash18/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/somprakash18/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/somprakash18/leetcode-solutions/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/somprakash18/leetcode-solutions/tree/master/0732-my-calendar-iii) |
 | [0875-koko-eating-bananas](https://github.com/somprakash18/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/somprakash18/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/somprakash18/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/somprakash18/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/somprakash18/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -507,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/somprakash18/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/somprakash18/leetcode-solutions/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/somprakash18/leetcode-solutions/tree/master/0732-my-calendar-iii) |
+| [1004-max-consecutive-ones-iii](https://github.com/somprakash18/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/somprakash18/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/somprakash18/leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1872-stone-game-viii](https://github.com/somprakash18/leetcode-solutions/tree/master/1872-stone-game-viii) |
