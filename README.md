@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/somprakash18/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/somprakash18/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/somprakash18/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/somprakash18/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/somprakash18/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/somprakash18/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/somprakash18/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/somprakash18/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0844-backspace-string-compare](https://github.com/somprakash18/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1094-car-pooling](https://github.com/somprakash18/leetcode-solutions/tree/master/1094-car-pooling) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/somprakash18/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/somprakash18/leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/somprakash18/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/somprakash18/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0994-rotting-oranges](https://github.com/somprakash18/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/somprakash18/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
