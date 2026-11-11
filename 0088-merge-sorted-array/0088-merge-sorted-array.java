@@ -3,21 +3,20 @@ class Solution {
         int i=m-1;
         int j=n-1;
         int k=m+n-1;
-        while(i>=0&& j>=0){
+        while(i>=0&&j>=0){
             if(nums1[i]>nums2[j]){
                 nums1[k]=nums1[i];
-                i=i-1;
+                i--;
             }else{
                 nums1[k]=nums2[j];
-                j=j-1;
+                j--;
             }
-            k=k-1;
-
+            k--;
         }
         while(j>=0){
             nums1[k]=nums2[j];
-            k=k-1;
-            j=j-1;
+            j--;
+            k--;
         }
     }
 }
