@@ -4,18 +4,18 @@ class Solution {
         for(int num:nums){
             set.add(num);
         }
-        int longest=0;
+        int max=0;
         for(int num:set){
-        if(!set.contains(num-1)){
-            int current=num;
-            while(set.contains(current)){
-                current++;
+            if(!set.contains(num-1)){
+                int count=1;
+                int current=num;
+                while(set.contains(current+1)){
+                    current++;
+                    count++;
+                }
+                max=Math.max(max,count);
             }
-            int length=current-num;
-           longest= Math.max(longest,length);
         }
-        }
-        return longest;
-        
+        return max;
     }
 }
